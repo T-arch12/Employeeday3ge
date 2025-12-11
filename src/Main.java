@@ -6,5 +6,7 @@ public class Main {
         e1.calculateAttendence();
         e1.dailyWage();
         e1.calculateMonthlyWage();
+        e1.calculateWageTillCondition();
+        e1.printDailyWagesList();
     }
 }
