@@ -5,5 +5,6 @@ public class Main {
         Employee e1=new Employee();
         e1.calculateAttendence();
         e1.dailyWage();
+        e1.calculateMonthlyWage();
     }
 }
