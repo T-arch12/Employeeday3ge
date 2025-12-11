@@ -8,5 +8,6 @@ public class Main {
         e1.calculateMonthlyWage();
         e1.calculateWageTillCondition();
         e1.printDailyWagesList();
+        e1.computeEmployeeWage();
     }
 }
